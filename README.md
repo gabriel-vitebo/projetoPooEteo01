@@ -27,7 +27,7 @@
   - **Retorno esperado**:
     - `"A quantidade de produto é: 30"`
 
-### - [ ] Bônus (Opcional)
+### - [x] Bônus (Opcional)
 - Após o cadastro do nome e preço do produto, o programa deve criar um **loop** perguntando ao usuário qual operação deseja realizar:
   - **Opções**:
     1. **Adicionar nova quantidade**
